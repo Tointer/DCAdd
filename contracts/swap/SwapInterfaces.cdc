@@ -1,4 +1,5 @@
 import FungibleToken from "FungibleToken"
+
 ;pub contract interface SwapInterfaces {
     pub resource interface PairPublic {
         pub fun addLiquidity(tokenAVault: @FungibleToken.Vault, tokenBVault: @FungibleToken.Vault): @FungibleToken.Vault
