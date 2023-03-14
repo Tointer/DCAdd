@@ -31,11 +31,6 @@ export default async function handler(req: NextRequest) {
             "linear-gradient(to bottom right, #E0E7FF 25%, #ffffff 50%, #CFFAFE 75%)",
         }}
       >
-        <img
-          src={new URL("../../public/logo-lum.png", import.meta.url).toString()}
-          alt="Metronome Logo"
-          tw="w-20 h-20 mb-4 opacity-95"
-        />
         <h1
           style={{
             fontSize: "100px",
