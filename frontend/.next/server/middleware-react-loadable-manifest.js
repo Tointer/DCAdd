@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"index.tsx -> ../components/shared/select":{"id":"index.tsx -> ../components/shared/select","files":["static/chunks/components_shared_select_tsx.js"]}}
